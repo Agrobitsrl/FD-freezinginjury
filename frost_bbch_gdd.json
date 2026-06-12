@@ -1,0 +1,1028 @@
+{
+  "Almond": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -15.0,
+        "critical_threshold_C": -22.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-53",
+        "phenological_phase": "Bud swelling",
+        "gdd_lo": 50,
+        "gdd_hi": 100,
+        "warning_threshold_C": -5.0,
+        "critical_threshold_C": -9.4,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "55-59",
+        "phenological_phase": "Pink bud to late bud",
+        "gdd_lo": 100,
+        "gdd_hi": 200,
+        "warning_threshold_C": -2.5,
+        "critical_threshold_C": -3.9,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 200,
+        "gdd_hi": 380,
+        "warning_threshold_C": -1.5,
+        "critical_threshold_C": -2.8,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 380,
+        "gdd_hi": 1500,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -2.2,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Apple": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 80,
+        "warning_threshold_C": -25.0,
+        "critical_threshold_C": -35.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-53",
+        "phenological_phase": "Silver tip to green tip",
+        "gdd_lo": 80,
+        "gdd_hi": 150,
+        "warning_threshold_C": -6.0,
+        "critical_threshold_C": -11.1,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "54-56",
+        "phenological_phase": "Half-inch green to tight cluster",
+        "gdd_lo": 150,
+        "gdd_hi": 220,
+        "warning_threshold_C": -3.0,
+        "critical_threshold_C": -5.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "57-61",
+        "phenological_phase": "Pink to first bloom",
+        "gdd_lo": 220,
+        "gdd_hi": 320,
+        "warning_threshold_C": -2.0,
+        "critical_threshold_C": -3.9,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "65-69",
+        "phenological_phase": "Full bloom to petal fall",
+        "gdd_lo": 320,
+        "gdd_hi": 450,
+        "warning_threshold_C": -1.5,
+        "critical_threshold_C": -2.2,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 450,
+        "gdd_hi": 1500,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -1.7,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Apricot": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -18.0,
+        "critical_threshold_C": -27.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-53",
+        "phenological_phase": "Bud swelling",
+        "gdd_lo": 50,
+        "gdd_hi": 100,
+        "warning_threshold_C": -5.0,
+        "critical_threshold_C": -8.9,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "55-59",
+        "phenological_phase": "Calyx red to first white",
+        "gdd_lo": 100,
+        "gdd_hi": 180,
+        "warning_threshold_C": -3.0,
+        "critical_threshold_C": -4.4,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 180,
+        "gdd_hi": 350,
+        "warning_threshold_C": -1.5,
+        "critical_threshold_C": -2.8,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 350,
+        "gdd_hi": 1500,
+        "warning_threshold_C": -0.5,
+        "critical_threshold_C": -1.1,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Avocado": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Mature plant dormant",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -4.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Vegetative flush",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Fruit maturation",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.5,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      }
+    ]
+  },
+  "Banana": {
+    "stages": [
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Active vegetative growth",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 6.0,
+        "critical_threshold_C": 0.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "51-59",
+        "phenological_phase": "Inflorescence emergence",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 7.0,
+        "critical_threshold_C": 1.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit development",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 7.0,
+        "critical_threshold_C": 2.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Fruit maturation",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 8.0,
+        "critical_threshold_C": 3.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      }
+    ]
+  },
+  "Cherry": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 60,
+        "warning_threshold_C": -20.0,
+        "critical_threshold_C": -30.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-55",
+        "phenological_phase": "Bud swelling to side green",
+        "gdd_lo": 60,
+        "gdd_hi": 130,
+        "warning_threshold_C": -4.0,
+        "critical_threshold_C": -7.2,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "57-59",
+        "phenological_phase": "White bud",
+        "gdd_lo": 130,
+        "gdd_hi": 200,
+        "warning_threshold_C": -3.0,
+        "critical_threshold_C": -5.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 200,
+        "gdd_hi": 350,
+        "warning_threshold_C": -1.7,
+        "critical_threshold_C": -2.8,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 350,
+        "gdd_hi": 900,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -1.7,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Citrus": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Mature plant dormant",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -2.0,
+        "critical_threshold_C": -6.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Vegetative flush",
+        "gdd_lo": 50,
+        "gdd_hi": 150,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -2.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-59",
+        "phenological_phase": "Flower bud visible",
+        "gdd_lo": 150,
+        "gdd_hi": 280,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -2.5,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Full bloom",
+        "gdd_lo": 280,
+        "gdd_hi": 420,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -2.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 420,
+        "gdd_hi": 1200,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Fruit at maturity",
+        "gdd_lo": 1200,
+        "gdd_hi": 2500,
+        "warning_threshold_C": -0.5,
+        "critical_threshold_C": -2.2,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Cocoa": {
+    "stages": [
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Active vegetative growth",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 12.0,
+        "critical_threshold_C": 7.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 12.0,
+        "critical_threshold_C": 7.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Pod development",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 10.0,
+        "critical_threshold_C": 5.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      }
+    ]
+  },
+  "Coffee": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Mature plant dormant",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 1.0,
+        "critical_threshold_C": -3.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Vegetative flush",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 2.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 1.0,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Bean filling",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 1.0,
+        "critical_threshold_C": -2.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Cherry ripening",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -3.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Guava": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Mature plant dormant",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -3.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Vegetative flush",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      }
+    ]
+  },
+  "Hazelnut": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Full dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 30,
+        "warning_threshold_C": -20.0,
+        "critical_threshold_C": -30.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-55",
+        "phenological_phase": "Catkin elongation / female flower exposed",
+        "gdd_lo": 30,
+        "gdd_hi": 100,
+        "warning_threshold_C": -4.0,
+        "critical_threshold_C": -8.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Full female flowering",
+        "gdd_lo": 50,
+        "gdd_hi": 150,
+        "warning_threshold_C": -3.5,
+        "critical_threshold_C": -7.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "First leaves unfolded",
+        "gdd_lo": 200,
+        "gdd_hi": 400,
+        "warning_threshold_C": -2.0,
+        "critical_threshold_C": -5.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 400,
+        "gdd_hi": 1200,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -2.5,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Olive": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -6.0,
+        "critical_threshold_C": -12.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Leaf unfolding",
+        "gdd_lo": 50,
+        "gdd_hi": 300,
+        "warning_threshold_C": -3.0,
+        "critical_threshold_C": -6.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-59",
+        "phenological_phase": "Inflorescence visible (mignolatura)",
+        "gdd_lo": 300,
+        "gdd_hi": 550,
+        "warning_threshold_C": -2.0,
+        "critical_threshold_C": -4.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 550,
+        "gdd_hi": 700,
+        "warning_threshold_C": -0.5,
+        "critical_threshold_C": -2.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 700,
+        "gdd_hi": 1100,
+        "warning_threshold_C": -0.5,
+        "critical_threshold_C": -2.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Veraison to ripe fruit",
+        "gdd_lo": 1100,
+        "gdd_hi": 1800,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -4.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Mango": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Mature plant dormant",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -2.5,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Vegetative flush",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 1.0,
+        "critical_threshold_C": -0.5,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering (panicle)",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 2.0,
+        "critical_threshold_C": 0.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 2.0,
+        "critical_threshold_C": -0.5,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Fruit ripening",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 1.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      }
+    ]
+  },
+  "Papaya": {
+    "stages": [
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Active vegetative growth",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 4.0,
+        "critical_threshold_C": 0.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 4.0,
+        "critical_threshold_C": 0.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 4.0,
+        "critical_threshold_C": 0.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Fruit ripening",
+        "gdd_lo": 0,
+        "gdd_hi": 9999,
+        "warning_threshold_C": 6.0,
+        "critical_threshold_C": 2.0,
+        "frost_type": "Both",
+        "evidence_level": "III"
+      }
+    ]
+  },
+  "Peach": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -18.0,
+        "critical_threshold_C": -25.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-55",
+        "phenological_phase": "Bud swelling to calyx green",
+        "gdd_lo": 50,
+        "gdd_hi": 130,
+        "warning_threshold_C": -3.5,
+        "critical_threshold_C": -7.2,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "57-59",
+        "phenological_phase": "Pink",
+        "gdd_lo": 130,
+        "gdd_hi": 200,
+        "warning_threshold_C": -3.0,
+        "critical_threshold_C": -5.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 200,
+        "gdd_hi": 380,
+        "warning_threshold_C": -1.5,
+        "critical_threshold_C": -2.8,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 380,
+        "gdd_hi": 1500,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -1.7,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Pear": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 80,
+        "warning_threshold_C": -23.0,
+        "critical_threshold_C": -32.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-53",
+        "phenological_phase": "Scales separating to blossom buds exposed",
+        "gdd_lo": 80,
+        "gdd_hi": 150,
+        "warning_threshold_C": -5.0,
+        "critical_threshold_C": -8.3,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "54-57",
+        "phenological_phase": "Tight cluster to first white",
+        "gdd_lo": 150,
+        "gdd_hi": 280,
+        "warning_threshold_C": -2.5,
+        "critical_threshold_C": -4.4,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 280,
+        "gdd_hi": 450,
+        "warning_threshold_C": -1.5,
+        "critical_threshold_C": -2.2,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 450,
+        "gdd_hi": 1500,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -1.7,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Pistachio": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 100,
+        "warning_threshold_C": -12.0,
+        "critical_threshold_C": -20.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-53",
+        "phenological_phase": "Bud swelling",
+        "gdd_lo": 100,
+        "gdd_hi": 200,
+        "warning_threshold_C": -5.0,
+        "critical_threshold_C": -9.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "55-59",
+        "phenological_phase": "Inflorescence exposed",
+        "gdd_lo": 200,
+        "gdd_hi": 350,
+        "warning_threshold_C": -3.0,
+        "critical_threshold_C": -6.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 350,
+        "gdd_hi": 550,
+        "warning_threshold_C": -0.5,
+        "critical_threshold_C": -2.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 550,
+        "gdd_hi": 1500,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Plum": {
+    "stages": [
+      {
+        "bbch_range": "00-09",
+        "phenological_phase": "Dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -22.0,
+        "critical_threshold_C": -30.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "51-53",
+        "phenological_phase": "Bud swelling",
+        "gdd_lo": 50,
+        "gdd_hi": 120,
+        "warning_threshold_C": -6.0,
+        "critical_threshold_C": -10.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "55-59",
+        "phenological_phase": "Calyx red to white bud",
+        "gdd_lo": 120,
+        "gdd_hi": 200,
+        "warning_threshold_C": -2.5,
+        "critical_threshold_C": -4.4,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 200,
+        "gdd_hi": 380,
+        "warning_threshold_C": -1.5,
+        "critical_threshold_C": -2.8,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set / early development",
+        "gdd_lo": 380,
+        "gdd_hi": 1500,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -1.7,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      }
+    ]
+  },
+  "Vineyard": {
+    "stages": [
+      {
+        "bbch_range": "00-00",
+        "phenological_phase": "Winter dormancy",
+        "gdd_lo": 0,
+        "gdd_hi": 50,
+        "warning_threshold_C": -12.0,
+        "critical_threshold_C": -20.0,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "01-09",
+        "phenological_phase": "Bud burst (wool stage to green tip)",
+        "gdd_lo": 50,
+        "gdd_hi": 150,
+        "warning_threshold_C": -2.5,
+        "critical_threshold_C": -5.5,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "11-19",
+        "phenological_phase": "Leaf development",
+        "gdd_lo": 150,
+        "gdd_hi": 350,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.5,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "53-59",
+        "phenological_phase": "Inflorescences visible",
+        "gdd_lo": 350,
+        "gdd_hi": 450,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "61-69",
+        "phenological_phase": "Flowering",
+        "gdd_lo": 450,
+        "gdd_hi": 600,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "71-79",
+        "phenological_phase": "Fruit set",
+        "gdd_lo": 600,
+        "gdd_hi": 1000,
+        "warning_threshold_C": 0.0,
+        "critical_threshold_C": -1.0,
+        "frost_type": "Radiative",
+        "evidence_level": "II"
+      },
+      {
+        "bbch_range": "81-89",
+        "phenological_phase": "Veraison to harvest ripeness",
+        "gdd_lo": 1000,
+        "gdd_hi": 1800,
+        "warning_threshold_C": -1.0,
+        "critical_threshold_C": -2.5,
+        "frost_type": "Both",
+        "evidence_level": "II"
+      }
+    ]
+  }
+}
